@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R27Lbf6uLB01cK83x8tIcG5tlFgsd8oGb4DPy5ES6s0=",
+  "Source": "Net8AuthenticationWithidentityWebApi",
+  "BasePath": "_content/Net8AuthenticationWithidentityWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
