@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Net8AuthenticationWithidentityWebApi.Entities;
 using Net8AuthenticationWithidentityWebApi.Extentions;
 
 
@@ -21,7 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.MapIdentityApi<IdentityUser>();
+app.MapIdentityApi<User>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

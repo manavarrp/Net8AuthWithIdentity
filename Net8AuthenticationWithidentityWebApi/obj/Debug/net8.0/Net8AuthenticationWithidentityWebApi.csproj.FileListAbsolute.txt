@@ -143,3 +143,4 @@ C:\Projects\Net8AuthenticationWithidentityWebApi\Net8AuthenticationWithidentityW
 C:\Projects\Net8AuthenticationWithidentityWebApi\Net8AuthenticationWithidentityWebApi\bin\Debug\net8.0\Scrutor.dll
 C:\Projects\Net8AuthenticationWithidentityWebApi\Net8AuthenticationWithidentityWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Projects\Net8AuthenticationWithidentityWebApi\Net8AuthenticationWithidentityWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Projects\Net8AuthenticationWithidentityWebApi\Net8AuthenticationWithidentityWebApi\obj\Debug\net8.0\Net8AuthenticationWithidentityWebApi.sourcelink.json

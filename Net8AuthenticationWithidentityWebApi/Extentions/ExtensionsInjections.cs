@@ -3,6 +3,7 @@ using Net8AuthenticationWithidentityWebApi.Context;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
+using Net8AuthenticationWithidentityWebApi.Entities;
 
 namespace Net8AuthenticationWithidentityWebApi.Extentions
 {
@@ -14,7 +15,7 @@ namespace Net8AuthenticationWithidentityWebApi.Extentions
 
             services.AddAuthentication();
 
-            services.AddIdentityApiEndpoints<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
+            services.AddIdentityApiEndpoints<User>().AddEntityFrameworkStores<AppDbContext>();
 
             services.AddSwaggerGen(options =>
             {
